@@ -1,0 +1,21 @@
+##
+##import turtle
+##e=turtle.Turtle()
+##e.shape('classic')
+##e.pensize(5)
+##e.left(45)
+##e.forward(100)
+##e.backward(50)
+##e.left(90)
+##e.forward(50)
+##e.backward(50)
+##e.right(180)
+##e.forward(50)
+##e.backward(50)
+##e.color('purple')
+##e.forward(50)
+##e.backward(50)
+##e.left(180)
+##e.forward(50)
+##e.backward(50)
+
